@@ -22,6 +22,6 @@ Consciousness Speaks, pg. 52
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Advaita Press logo <a href="https://t.co/X5HpuxIU7G">https://t.co/X5HpuxIU7G</a></p>&mdash; 𓆣 Inner⚕I⚕NetCompany/ 🤝, 🐘🕸.arweave.dev (@innerinetco) <a href="https://twitter.com/innerinetco/status/1600581014614859776?ref_src=twsrc%5Etfw">December 7, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <div>
+  <a href="https://twitter.com/intent/tweet?button_hashtag=innerinetwork&ref_src=twsrc%5Etfw" class="twitter-hashtag-button" data-show-count="false">Tweet #innerinetwork</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
   
-  
-[#innerinetwork](https://www.hashtags.org/analytics/innerinetwork/)
+[hashtags.org - #innerinetwork](https://www.hashtags.org/analytics/innerinetwork/)
